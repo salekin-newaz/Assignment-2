@@ -1,0 +1,99 @@
+body {
+    font-family: "Bebas Neue", cursive;
+  }
+  p {
+    font-family: "Roboto", sans-serif;
+  }
+  #logos{
+      height: 60px;
+  }
+.model img{
+ width: 80%;
+}
+.bg-custom{
+    background-color: #fffbf0;
+}
+h1{
+    font-size: 70px;
+}
+h3 {
+    font-size: 50px;
+  }
+  h4 {
+    margin-top: 12px;
+    margin-bottom: -0.5rem;
+    font-weight: 100;
+    font-size: 60px;
+    color: #fabe4c;
+  }
+  h5 {
+    font-size: 30px;
+  }
+  .yellow-highlight{
+      color: #FABE4C;
+  }
+  .panda-card{
+      border-radius: 5%;
+      background-color: thistle;
+      padding-top: 20px;
+
+  }
+
+  .panda-card-footer{
+      background-color: white;
+      border: 0;
+      border-radius: 5%;
+      padding: 0%;
+  }
+  .panda-card img{
+      padding: 12px;
+  }
+
+  .custom-btn{
+    
+    border-radius: 80px;
+    height: 75px;
+    font-size: 25px;
+    background-color: rgb(101, 145, 15);
+    padding: 0%;
+    margin: 0%;
+  
+
+    color: white;
+  }
+  .custom-btn img{
+      height: 60%;
+      
+  }
+
+  .custom-btn-top{
+    height: 92px;
+    border-radius: 32px;
+ 
+      font-size: 21px;
+      border-radius: 10px;
+      padding: 0px 9px;
+      background-color: yellowgreen;
+      color: white;
+  }
+  .btn-new{
+    justify-content: space-between;
+  }
+  .card-title{
+    justify-content: flex-end;
+  }
+  .a{
+    display: flex;
+    justify-content: flex-end;
+  }
+  .card-text:last-child{
+    margin-bottom: -9px;
+  }
+  .b{
+    width: 500px;
+  }
+ 
+  .f{
+    font-size: 20px;
+    text-align: center;
+  }
